@@ -1,0 +1,1 @@
+n=int(input("enert the limit:"))
